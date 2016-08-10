@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ReplState" timestamp="1470858418534">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1470860460376">{:repl-history {:ide [], :local [&quot;(sleep-in true true)&quot; &quot;(sleep-in false true)&quot; &quot;(monkey-trouble true true)&quot; &quot;(monkey-trouble false false)&quot; &quot;(sum-double 1 2)&quot;], :remote []}}</component>
 </project>
